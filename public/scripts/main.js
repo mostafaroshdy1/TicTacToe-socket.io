@@ -1,6 +1,4 @@
-const url = window.location.origin;
-let socket = io.connect(url);
-
+const socket = io();
 let myTurn = true;
 let symbol;
 
