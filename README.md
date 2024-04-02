@@ -6,7 +6,7 @@ TicTacToe-socket.io is a real-time multiplayer Tic Tac Toe game built using Node
 
 You can access the live demo of the game [here](tictactoe-socketio-production.up.railway.app). Once you enter the link, you will be matched with another player, allowing you to enjoy the game in real-time.
 
-![ezgif-4-ec555f20e6](https://github.com/mostafaroshdy1/TicTacToe-socket.io/assets/66712535/a6f431c6-8129-4f19-a0d0-4b2f06c3e1f6)
+![z](https://github.com/mostafaroshdy1/TicTacToe-socket.io/assets/66712535/6ebc77ac-bfef-43c2-b688-b8c5a1beb796)
 
 
 ## How to Play
