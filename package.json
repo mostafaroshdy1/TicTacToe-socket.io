@@ -1,0 +1,29 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "TicTacToe real time game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafaroshdy1/TicTacToe-socket.io.git"
+  },
+  "keywords": [
+    "TicTacToe",
+    "game"
+  ],
+  "author": "Mostafa Roshdy",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mostafaroshdy1/TicTacToe-socket.io/issues"
+  },
+  "homepage": "https://github.com/mostafaroshdy1/TicTacToe-socket.io#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
